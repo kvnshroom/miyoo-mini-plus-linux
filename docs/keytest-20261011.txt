@@ -1,0 +1,41 @@
+# Key test 2026-10-11: read-only pad logger on the device; keys pressed in the order
+# up down left right B A X Y L L2 R R2 select start menu vol- vol+ power
+1791737870 pressed: gpio1
+1791737871 pressed: none
+1791737874 pressed: pmled0
+1791737874 pressed: none
+1791737877 pressed: pmled1
+1791737878 pressed: none
+1791737881 pressed: gpio5
+1791737881 pressed: none
+1791737884 pressed: gpio6
+1791737884 pressed: none
+1791737892 pressed: gpio7
+1791737892 pressed: none
+1791737902 pressed: gpio9
+1791737902 pressed: none
+1791737903 pressed: gpio8
+1791737903 pressed: none
+1791737907 pressed: gpio14
+1791737907 pressed: none
+1791737912 pressed: gpio13
+1791737912 pressed: none
+1791737915 pressed: uart0rx
+1791737915 pressed: none
+1791737916 pressed: gpio90
+1791737916 pressed: none
+1791737920 pressed: gpio11
+1791737920 pressed: none
+1791737921 pressed: gpio10
+1791737921 pressed: none
+1791737934 pressed: gpio12
+1791737934 pressed: none
+1791737942 pressed: ttl23
+1791737943 pressed: none
+1791737945 pressed: ttl24
+1791737945 pressed: none
+1791737949 pressed: sar0
+1791737949 pressed: none
+
+# Re-test 2026-10-11, order A B X Y:
+# gpio7 gpio6 gpio9 gpio8

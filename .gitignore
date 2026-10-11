@@ -1,0 +1,8 @@
+# Allow-list: only notes, scripts and our own tools are published.
+# Never commit firmware, flash/SD dumps, Onion/Miyoo binaries or device data.
+/*
+!/.gitignore
+!/README.md
+!/docs/
+!/scripts/
+!/tools/
